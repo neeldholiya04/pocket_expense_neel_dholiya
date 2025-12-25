@@ -1,4 +1,4 @@
-# PocketExpense+ 💰
+# PocketExpense+
 
 A complete expense tracking mobile application with intelligent insights, built with React Native (Expo) and Node.js.
 
@@ -171,7 +171,7 @@ npx expo start
 - Press `a` for Android Emulator
 - Scan QR code with Expo Go app on physical device
 
-## API Documentation 📡
+## API Documentation
 
 ### Authentication Endpoints
 
